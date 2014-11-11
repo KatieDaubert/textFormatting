@@ -6,44 +6,7 @@
 <link href='http://fonts.googleapis.com/css?family=Alegreya' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="style.css">
 <style>
-#exercise1 {
- margin-left: 1em;
- padding-left: 1em;
- text-align: center;
-}
-#topLine {
- font-size: 700%;
-}
-#secondLine {
- font-size: 500%;
-}
-#thirdLine {
- font-size: 300%;
-}
-#fourthLine {
- font-size: 200%;
-}
-#fifthLine {
- font-size: 150%;
-}
-#sixthLine {
- font-size: 100%;
-}
-#seventhLine {
- font-size: 95%;
-}
-#eigthLine {
- font-size: 90%;
-}
-#ninthLine {
- font-size: 85%;
-}
-#tenthLine {
- font-size: 70%;
-}
-#eleventhLine {
- font-size: 50%;
-}
+
 </style>
 </head>
 <body>
@@ -66,9 +29,9 @@ Use CSS to replicate the pictured eye chart. To accomplish this:
 	<div id="fifthLine" class="chartLine">P E C F D</div>
 	<div id="sixthLine" class="chartLine">E D F C Z P</div>
 	<div id="seventhLine" class="chartLine">F E L O P Z D</div>
-	<div id="eighthLine" class="chartLine">D E F P O T E C</div>
+	<div id="eighththLine" class="chartLine">D E F P O T E C</div>
 	<div id="ninthLine" class="chartLine">L E F O D P C T</div>
-	<div id="tenthLine" class="chartLine">F T P L T C E O</div>
+	<div id="tenththLine" class="chartLine">F T P L T C E O</div>
 	<div id="eleventhLine" class="chartLine">P E Z O L C F T D</div>
 </div>
 </div>
